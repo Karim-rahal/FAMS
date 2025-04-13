@@ -1,5 +1,5 @@
 import { Link, useNavigate } from 'react-router-dom';
-import logo from '../../assets/logo.png';
+import logo from '../../assets/famsLogo.PNG';
 
 export default function Navbar() {
   const token = localStorage.getItem('token');
