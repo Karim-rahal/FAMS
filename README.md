@@ -7,9 +7,13 @@ It provides an integrated platform for players, coaches, and administrative staf
 The application is developed using:
 
 -HTML5 for semantic structure
+
 -CSS3 for responsive layout and styling
+
 -JavaScript for interactive client-side behavior
+
 -PHP for server-side logic, session management, and form handling
+
 -MySQL for data storage
 
 The project runs in a local development environment using XAMPP, which provides the required Apache and PHP backend.
