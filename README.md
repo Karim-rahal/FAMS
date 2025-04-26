@@ -19,10 +19,15 @@ The application is developed using:
 The project runs in a local development environment using XAMPP, which provides the required Apache and PHP backend.
 
 ## Installation
-Download and install XAMPP
-Extract the Project File
-Copy the Project file to the root 'htdocs'
-Start the APACHE server and the MySQL server
-Open the phpMyAdmin and import the fams.sql file to your database.
+-Download and install XAMPP
+
+-Extract the Project File
+
+-Copy the Project folder to the root 'htdocs'
+
+-Start the APACHE server and the MySQL server
+
+-Open the phpMyAdmin and import the fams.sql file to your database
+
 Now access the project by pasting this link in the browser: http://localhost/FAMS/index.php
 
